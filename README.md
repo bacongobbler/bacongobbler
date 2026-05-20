@@ -2,7 +2,7 @@
 
 Wow, this really has a MySpace vibe going on, doesn't it? I wonder if I can set up some background tunes. 🤔
 
-I'm a Senior Software Engineer at [Akamai Technologies](https://akamai.com), formerly one of the co-founders of [Fermyon Technologies](https://fermyon.com). My primary interest is [WebAssembly](https://webassembly.org/), but off-hours I enjoy game development (both board games and video games), building (and playing) guitars, gardening, carpentry, and painting.
+I'm a Senior Software Engineer at [Akamai Technologies](https://akamai.com). My primary interest is [WebAssembly](https://webassembly.org/), but off-hours I enjoy game development (both board games and video games), building (and playing) guitars, gardening, carpentry, and painting.
 
 I maintain a few personal projects that you may find useful:
 
