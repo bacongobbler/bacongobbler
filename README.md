@@ -15,4 +15,4 @@ I am also an [org maintainer emeritus](https://github.com/helm/community/blob/ma
 
 #### Contact
 
-Hit me up at [matt.fisher@fermyon.com](mailto:matt.fisher@fermyon.com).
+Hit me up at [mfisher@akamai.com](mailto:mfisher@akamai.com).
