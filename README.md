@@ -13,7 +13,6 @@ I am also an [org maintainer emeritus](https://github.com/helm/community/blob/ma
 
 ![bacongobbler's github stats](./profile/stats.svg)
 ![bacongobbler's top languages](./profile/langs.svg)
-![pin](./profile/pin-stats-organization-github-readme-stats.svg)
 
 #### Contact
 
