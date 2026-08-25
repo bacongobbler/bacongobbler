@@ -11,7 +11,9 @@ I maintain a few personal projects that you may find useful:
 
 I am also an [org maintainer emeritus](https://github.com/helm/community/blob/main/MAINTAINERS.md) and [core maintainer emeritus of the Helm project](https://github.com/helm/helm/blob/e46a81654083eb8b0110915c964592876e077dde/OWNERS#L18).
 
-[![bacongobbler's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+![bacongobbler's github stats](./profile/stats.svg)
+![bacongobbler's top languages](./profile/langs.svg)
+![pin](./profile/pin-stats-organization-github-readme-stats.svg)
 
 #### Contact
 
