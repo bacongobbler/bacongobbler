@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Matthew Fisher&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 390, Total Commits  (last year) : 28, Total PRs: 2700, Total Issues: 1282, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 389, Total Commits  (last year) : 28, Total PRs: 2700, Total Issues: 1282, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 49.32945335212607;
+        stroke-dashoffset: 49.351138950618434;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >390</text>
+      >389</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
